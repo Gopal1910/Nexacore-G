@@ -1,127 +1,94 @@
-🚀 Futuristic Management Dashboard 
+# 🚀 Futuristic Management Dashboard — Frontend Assessment
 
-A next-generation Futuristic Management Web Application built for the MarwadTech Frontend Internship Assessment.
-This project simulates a real-world admin panel with advanced UI, 3D futuristic elements, cyber-neon theme, responsive design, scalable architecture, real-time validation, pagination, analytics dashboard, and media handling — all powered by React with clean state management and reusable components.
+A next-generation **Futuristic Management Web Application** built for the MarwadTech Frontend Internship Assessment.  
+This project simulates a real-world admin panel with advanced UI, **3D futuristic elements**, cyber-neon theme, responsive design, scalable architecture, real-time validation, pagination, analytics dashboard, and media handling — all powered by **React** with clean state management and reusable components.
 
-✨ Key Highlights
+---
 
-✔ Futuristic Cyberpunk UI with Neon Glow
-✔ Orbitron Font + Glassmorphism + 3D Elements
-✔ Fully Responsive Modern Layout
-✔ Smooth Animations + Hover Effects
-✔ Clean Component Architecture
-✔ Persistent Authentication Session
-✔ Real-World Assessment Ready Project
+## ✨ Key Highlights
+- ✔ Futuristic Cyberpunk UI with Neon Glow  
+- ✔ Orbitron Font + Glassmorphism + 3D Elements  
+- ✔ Fully Responsive Modern Layout  
+- ✔ Smooth Animations + Hover Effects  
+- ✔ Clean Component Architecture  
+- ✔ Persistent Authentication Session  
+- ✔ Real-World Assessment Ready Project  
 
-🧭 Application Features
-🔐 1️⃣ Authentication & Session Management
+---
 
-Registration + Login screens
+## 🧭 Application Features
 
-Real-time Mobile Number Validation
+### 🔐 Authentication & Session Management
+- Registration + Login screens
+- Real-time **Mobile Number Validation**
+- Instant input error feedback
+- Session persists even after page refresh (LocalStorage)
 
-Instant input error feedback
+---
 
-Session persists even after page refresh (LocalStorage based)
+### 🛒 Product Catalog with Pagination
+- Product Listing Page
+- Displays:
+  - Name
+  - Price
+  - Category
+  - Stock
+  - Status (Active / Inactive)
+- **Numbered Pagination**
+  - Exactly 10 items per page
+- Search Products by Name
+- Status Filter
+- Uses Mock Data (30+ Products)
+- Futuristic Product Cards
 
-🛒 2️⃣ Product Catalog with Pagination
+---
 
-Product Listing Page
+### 📊 Analytics Dashboard
+- Statistic Cards displaying:
+  - Total Users
+  - Total Products
+  - Total Orders
+  - Total Revenue
+- Date Filters:
+  - Today
+  - Yesterday
+  - Weekly
+  - Monthly
+  - Custom Range
+- Dynamic Value Updates
+- Cyber-UI with animated glowing cards
 
-Displays:
+---
 
-Name
+### 🖼 Media Upload & Preview
+- Dedicated Upload Page
+- Select Image (Max 5MB)
+- Instant Preview Before Upload
+- Success State + Animated Success UI
+- Final Display of Uploaded Image
 
-Price
+---
 
-Category
+## 🎨 UI / UX Design Philosophy
+- Orbitron font futuristic typography
+- Neon Blue + Purple gradients
+- Glassmorphism frosted panels
+- Subtle 3D depth
+- Smooth transitions
+- Responsive experience
+- Dashboard-grade professional polish
 
-Stock
+---
 
-Status (Active / Inactive)
+## 🏗 Tech Stack
+**Frontend**
+- React.js
+- React Router
+- Context API / Local State
+- Tailwind CSS / Styled CSS
 
-Numbered Pagination
+**Utilities**
+- LocalStorage for persistence
+- Mock Data JSON
 
-Exactly 10 items per page
-
-Search Products by Name
-
-Status Filter
-
-Uses Mock Data (30+ Products)
-
-Futuristic Product Cards
-
-📊 3️⃣ Analytics Dashboard
-
-Statistic Cards displaying:
-
-Total Users
-
-Total Products
-
-Total Orders
-
-Total Revenue
-
-Date Filters:
-
-Today
-
-Yesterday
-
-Weekly
-
-Monthly
-
-Custom Range
-
-Dynamic Value Updates
-
-Cyber-UI with animated glowing cards
-
-🖼 4️⃣ Media Upload & Preview
-
-Dedicated Upload Page
-
-Select Image (Max 5MB)
-
-Instant Preview Before Upload
-
-Success State + Animated Success UI
-
-Final Display of Uploaded Image
-
-🎨 UI / UX Design Philosophy
-
-Orbitron font futuristic typography
-
-Neon Blue + Purple gradients
-
-Glassmorphism frosted panels
-
-Subtle 3D depth
-
-Smooth transitions
-
-Responsive user experience
-
-Dashboard-grade professional polish
-
-🏗 Tech Stack
-
-Frontend
-
-React.js
-
-React Router
-
-Context API / Local State
-
-Tailwind / CSS / Styled Components (depending on build)
-
-Utilities
-
-LocalStorage for persistence
-
-Mock Data JSON
+---
