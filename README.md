@@ -1,9 +1,8 @@
-# 🚀 Futuristic Management Dashboard 
+# 🚀 Futuristic Management Dashboard
 
-A next-generation **Futuristic Management Web Application** built for the MarwadTech Frontend Internship Assessment.  
-This project simulates a real-world admin panel with advanced UI, **3D futuristic elements**, cyber-neon theme, responsive design, scalable architecture, real-time validation, pagination, analytics dashboard, and media handling — all powered by **React** with clean state management and reusable components.
+A next-generation **Futuristic Management Web Application** featuring an advanced cyber-neon user interface, 3D elements, modern dashboard architecture, seamless navigation, real-time validation, analytics visualization, pagination system, and media upload functionality.  
+Designed to feel like a high-end modern admin system with professional UI/UX standards.
 
----
 
 ## ✨ Key Highlights
 - ✔ Futuristic Cyberpunk UI with Neon Glow  
